@@ -26,7 +26,7 @@
 
 <p>A Convolutional Neural Network from keras was used to train the model. The major features of the network architecture consisted of one convolutional layer, one hidden layer, and one output layer. Categorical Cross-Entropy was used as the loss function, while taking accuracy as a metric. Early Stopping was also implemented during training, to mostly avoid overfitting.</p>
 
-<p>A total of 40,000 images were used for training, another 10,0000 images were used for evaluation, and then 1,000 images were used for testing.</p>
+<p>A total of 40,000 images were used for training, another 10,0000 images were used for evaluation, and another 10,000 images were used for testing.</p>
 
 <h2>Evaluation</h2>
 
